@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: '/jmesmapper-site'
   siteMetadata: {
     title: `Demo JmesMapper`,
     description: `Demo JmesMapper`,
-    author: `@dominicabela`,
+    author: `@soxbox`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
